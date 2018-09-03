@@ -263,12 +263,12 @@ header {
 
 #contents #main .company_title {
   margin-bottom: 0px; }
-#contents #main th {
-  padding-right: 20px; }
 #contents #main th, #contents #main td {
   padding: 20px 0;
   color: #626262;
   font-size: 1.4rem; }
+#contents #main th {
+  padding-right: 20px; }
 
 footer {
   background-color: #42b9d0;
